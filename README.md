@@ -6,16 +6,12 @@ This project demonstrates clean code structure, reusable components, and modern 
 
 🔗 **Live Demo:**https://blog-project-f45a0.web.app/
 
----
-
 ## 📌 About The Project
 
 This project is a frontend web application developed with **React and Vite**.  
 It focuses on performance, simplicity, and clean UI design.
 
 This project was built to practice modern React development and project structure.
-
----
 
 ## 🛠 Tech Stack
 
@@ -25,8 +21,6 @@ This project was built to practice modern React development and project structur
 - CSS3
 - ESLint
 
----
-
 ## ✨ Features
 
 ✔ Fast loading using Vite  
@@ -35,6 +29,4 @@ This project was built to practice modern React development and project structur
 ✔ Responsive design  
 ✔ Organized folder structure
 
----
 
-## 📂 Folder Structure
