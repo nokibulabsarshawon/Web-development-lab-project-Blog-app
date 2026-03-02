@@ -4,7 +4,7 @@
 A modern **React.js application** built using **Vite** for fast performance and optimized development.  
 This project demonstrates clean code structure, reusable components, and modern frontend development practices.
 
-🔗 **Live Demo:** https://your-live-link-here.com
+🔗 **Live Demo:**https://blog-project-f45a0.web.app/
 
 ---
 
